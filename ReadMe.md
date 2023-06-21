@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Muhammad Huzaida, a passionate React Native developer. I am excited about creating robust and user-friendly mobile applications that leverage the power of React Native.<br>With a strong background in mobile app development and a love for clean code, I strive to build applications that provide exceptional user experiences. I enjoy working on challenging projects and constantly expanding my skill set to keep up with the latest industry trends.
+Hello there! I'm Muhammad Huzaifa, a passionate React Native developer. I am excited about creating robust and user-friendly mobile applications that leverage the power of React Native.<br>With a strong background in mobile app development and a love for clean code, I strive to build applications that provide exceptional user experiences. I enjoy working on challenging projects and constantly expanding my skill set to keep up with the latest industry trends.
 
 
 ## 🌐 Socials:
