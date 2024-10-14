@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello there! I'm Muhammad Huzaifa, a passionate React Native developer. I am excited about creating robust and user-friendly mobile applications that leverage the power of React Native.<br>With a strong background in mobile app development and a love for clean code, I strive to build applications that provide exceptional user experiences. I enjoy working on challenging projects and constantly expanding my skill set to keep up with the latest industry trends.
-
+Hello there! I'm Muhammad Huzaifa, a passionate Full Stack MERN (MongoDB, Express, React, Node.js) developer and React Native specialist. I am excited about creating robust and user-friendly web and mobile applications that leverage the power of modern frameworks like React Native and Next.js.
+With a strong background in mobile and web app development, and a love for clean, efficient code, I strive to build applications that provide exceptional user experiences. I enjoy working on challenging projects, whether building dynamic web platforms or mobile solutions, and I'm constantly expanding my skill set to stay up-to-date with the latest industry trends and technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-huzaifa102) 
